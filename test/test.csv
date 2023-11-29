@@ -1,0 +1,11 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats
+Maruti Swift,2021,15000,Petrol,Individual,Manual,First Owner,19.91 kmpl,2541 CC,144 bhp,4
+Honda Civic,2014,10000,Diesel,Dealer,Automatic,Second Owner,23.46 kmpl,1794 CC,149 bhp,7
+Toyota Camry,2014,45000,Petrol,Individual,Manual,Third Owner,16.89 kmpl,2929 CC,76 bhp,5
+Ford Mustang,2019,35000,Diesel,Dealer,Automatic,First Owner,23.73 kmpl,1378 CC,140 bhp,4
+Hyundai Tucson,2011,15000,Petrol,Individual,Manual,Second Owner,21.73 kmpl,1034 CC,77 bhp,4
+Chevrolet Malibu,2018,10000,Diesel,Dealer,Automatic,Third Owner,20.80 kmpl,1666 CC,108 bhp,7
+Nissan Altima,2017,30000,Petrol,Individual,Manual,First Owner,20.45 kmpl,2632 CC,76 bhp,5
+Volkswagen Golf,2018,20000,Diesel,Dealer,Automatic,Second Owner,21.54 kmpl,1349 CC,143 bhp,4
+Audi A4,2022,10000,Petrol,Individual,Manual,Third Owner,19.15 kmpl,1793 CC,141 bhp,5
+BMW 3 Series,2021,20000,Diesel,Dealer,Automatic,First Owner,15.93 kmpl,1186 CC,135 bhp,4
